@@ -1,0 +1,26 @@
+{
+  "name": "automatedcomrade",
+  "version": "1.0.0",
+  "description": "Automated Comrade is a bot dedicated to help server administrators and moderators.",
+  "main": "automatedcomrade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automated",
+    "comrade",
+    "bot",
+    "discord",
+    "administration",
+    "moderation",
+    "reddit",
+    "colors",
+    "entertainment"
+  ],
+  "author": "Eugenio Pacceli Res da Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0"
+  }
+}
