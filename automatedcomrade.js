@@ -7,7 +7,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 // The token of your bot - https://discordapp.com/developers/applications/me
-const token = 'MzcyMTkzNzExNTk5Mzg2NjI0.DNAsEg.dNWZ8G-VYJc8A7wjnn-rmelDc_w';
+const token = '<!--SECRET--!>';
 const fs = require('fs');
 const request = require('request');
 
